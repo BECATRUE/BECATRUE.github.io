@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduce myself
-image: assets/images/pic01.jpg
+image: assets/images/introduction.jpg
 nav-menu: true
 ---
 
