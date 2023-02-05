@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Introduce myself
 image: assets/images/pic01.jpg
 nav-menu: true
