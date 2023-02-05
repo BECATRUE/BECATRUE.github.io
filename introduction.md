@@ -37,14 +37,29 @@ nav-menu: true
 <dl>
 	<dt>2020</dt>
 	<dd>
-		<ul>
-			<li>컴퓨터공학부 20학번 과대표</li>
-			<li>DEF</li>
-		</ul>
+		<p>
+			컴퓨터공학부 20학번 과대표 &nbsp; (2020.09 ~ 2020.11)
+		</p>
 	</dd>
-	<dt>Seoul National University &nbsp; (2020.03 ~ expected 2024.02)</dt>
+	<dt>2021</dt>
 	<dd>
-		<p>I am majoring in Computer Science & Engineering. Also, I am an undergraduated intern of Quantum Information and Quantum Computing Lab of Professor Taehyun Kim from 2023.</p>
+		<p>
+			컴퓨터공학부 학생회장 &nbsp; (2020.12 ~ 2021.11)<br/>
+			컴퓨터공학부 교외교육 ComSee 총괄 &nbsp; (2021.08 ~ 2021.11)<br/>
+			대학연합해커톤 UNI-DTHON 2021 데이터톤 팀장 &nbsp; (2021.08 ~ 2021.11)<br/>
+			기계X컴공 e스포츠 대전 TF원 (컴퓨터공학부 대표) &nbsp; (2021.06 ~ 2021.08)
+		</p>
+		<p>
+			공과대학 학생회 시설복지팀원 &nbsp; (2020.12 ~ 2021.03)<br/>
+			공과대학 학생회 행정복지국 부국장 &nbsp; (2021.03 ~ 2021.11)<br/>
+			공과대학 학생회 새맞이준비위원회 영상기획팀원 &nbsp; (2020.12 ~ 2021.02)<br/>
+			공과대학 학생회 새맞이준비위원회 총괄팀원 &nbsp; (2020.12 ~ 2021.02)
+		</p>
+		<p>
+			총학생회 중앙집행위원회 교육정책국원 &nbsp; (2020.12 ~ 2021.02)<br/>
+			총학생회 대학행정자치연구위원회 파견위원 &nbsp; (2020.12 ~ 2021.02)<br/>
+			총학생회 회계감사위원회원<br/>
+		</p>
 	</dd>
 </dl>
 
