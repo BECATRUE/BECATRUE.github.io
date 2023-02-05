@@ -43,6 +43,7 @@ nav-menu: true
 	</dd>
 	<dt>2021</dt>
 	<dd>
+		<span class="image right"><img src="{% link assets/images/comsee.jpg %}" alt="" /></span>
 		<p>
 			컴퓨터공학부 학생회장 &nbsp; (2020.12 ~ 2021.11)<br/>
 			컴퓨터공학부 교외교육 ComSee 총괄 &nbsp; (2021.08 ~ 2021.11)<br/>
