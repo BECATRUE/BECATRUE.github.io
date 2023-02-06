@@ -8,6 +8,9 @@ nav-menu: true
 <!-- Main -->
 <div id="main" class="alt">
 
+<!-- One -->
+<section id="one">
+
 <!-- Education -->
 <h2 id="content">Education</h2>
 
@@ -77,5 +80,7 @@ nav-menu: true
 		</p>
 	</dd>
 </dl>
+
+</section>
 
 </div>
