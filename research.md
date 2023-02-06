@@ -1,13 +1,18 @@
 ---
 layout: post
 title: Research
-description: Lorem ipsum dolor est
 image: assets/images/research.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<dl>
+	<dt>Daejeon Science High School For Gifted &nbsp; (2017.03 ~ 2020.02)</dt>
+	<dd>
+		<p>I majored in Computer Science. As R&E, I studied as a team leader on the subject of 'Understanding Decision-Making of Neural Networks by Analyzing Their Hidden Responses' under the guidance of Professor Soo-Young Lee, KAIST for a year. Also, I wrote my graduation thesis under the theme of 'Analysis Key Factors in Very Similar objects Recognition using semi-supervised GAN'.</p>
+	</dd>
+	<dt>Seoul National University &nbsp; (2020.03 ~ expected 2024.02)</dt>
+	<dd>
+		<p>I am majoring in Computer Science & Engineering. Also, I am an undergraduated intern of Quantum Information and Quantum Computing Lab of Professor Taehyun Kim from 2023.</p>
+	</dd>
+</dl>
