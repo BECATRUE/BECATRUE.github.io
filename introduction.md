@@ -8,13 +8,6 @@ nav-menu: true
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Introduction</h1>
-		</header>
-
 <!-- Education -->
 <h2 id="content">Education</h2>
 
@@ -84,8 +77,5 @@ nav-menu: true
 		</p>
 	</dd>
 </dl>
-
-</div>
-</section>
 
 </div>
