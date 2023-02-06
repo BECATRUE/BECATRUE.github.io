@@ -7,13 +7,6 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Research</h1>
-		</header>
 		
 <!-- Undergraduated intern -->
 <h2 id="content">Undergraduated intern</h2>
@@ -28,8 +21,5 @@ nav-menu: true
 		<p>The purpose is to take a rough look at ARTIQ and understand how the experiment is constructed and executed. Furthermore, I looked at how it could be applied and developed in my lab's system.</p>
 	</dd>
 </dl>
-
-</div>
-</section>
 
 </div>
