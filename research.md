@@ -5,14 +5,31 @@ image: assets/images/research.jpg
 nav-menu: true
 ---
 
+<!-- Main -->
+<div id="main" class="alt">
 
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Research</h1>
+		</header>
+		
+<!-- Undergraduated intern -->
+<h2 id="content">Undergraduated intern</h2>
+		
 <dl>
-	<dt>Daejeon Science High School For Gifted &nbsp; (2017.03 ~ 2020.02)</dt>
+	<dt>(Suspension) Sequencer GUI Upgrade &nbsp; (2022.01 ~ 2022.01)</dt>
 	<dd>
-		<p>I majored in Computer Science. As R&E, I studied as a team leader on the subject of 'Understanding Decision-Making of Neural Networks by Analyzing Their Hidden Responses' under the guidance of Professor Soo-Young Lee, KAIST for a year. Also, I wrote my graduation thesis under the theme of 'Analysis Key Factors in Very Similar objects Recognition using semi-supervised GAN'.</p>
+		<p>It was planned to complete a new Sequencer GUI before the spring semester to suit the increasingly complex system. Research on ARTIQ came first, so it was stopped.</p>
 	</dd>
-	<dt>Seoul National University &nbsp; (2020.03 ~ expected 2024.02)</dt>
+	<dt>ARTIQ analysis &nbsp; (2022.01 ~ expected 2022.02)</dt>
 	<dd>
-		<p>I am majoring in Computer Science & Engineering. Also, I am an undergraduated intern of Quantum Information and Quantum Computing Lab of Professor Taehyun Kim from 2023.</p>
+		<p>The purpose is to take a rough look at ARTIQ and understand how the experiment is constructed and executed. Furthermore, I looked at how it could be applied and developed in my lab's system.</p>
 	</dd>
 </dl>
+
+</div>
+</section>
+
+</div>
