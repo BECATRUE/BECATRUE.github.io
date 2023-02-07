@@ -14,8 +14,7 @@ nav-menu: true
 </div>
 		
 <!-- Undergraduated intern -->
-<h2 id="content">Undergraduated intern</h2>
-<h3 id="content">2023.01 ~ </h3>
+<h2 id="content">Undergraduated intern (2023.01 ~ )</h2>
 		
 <dl>
 	<dt>(Suspension) Sequencer GUI Upgrade &nbsp; (2023.01 ~ 2023.01)</dt>
